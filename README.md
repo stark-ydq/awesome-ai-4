@@ -1,9 +1,11 @@
 # Awesome AI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-Repository of AI tools, tutorials and articlesfor automating tasks and improving processes. A great resource for exploring AI possibilities in applications and projects.
+Repository of AI tools, tutorials, videos, and articles focused on generative AI, AI agents, and prompt engineering. A great resource for automating tasks, improving processes, and exploring the potential of AI in real-world applications and projects.s, tutorials and articlesfor automating tasks and improving processes. A great resource for exploring AI possibilities in applications and projects.
 
 ## Summary
 
+- [Repositories](#repositories)
+- [Articles](#articles)
 - [Guides](#guides)
 - [Models](#models)
 - [Others](#others)
@@ -25,6 +27,25 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
   - [Video generator](#video-generator)
 
 
+## Repositories
+
+- [Context Engineering Template](https://github.com/coleam00/context-engineering-intro) A comprehensive template for getting started with Context Engineering - the discipline of engineering context for AI coding assistants so they have the information necessary to get the job done end to end
+
+
+## Articles
+
+### Brazilian Portuguese(PT-BR)
+
+- [Fabric: Do Zero ao Power User em IA - Tutorial Completo](https://thebuilderscompass.substack.com/p/fabric-do-zero-ao-power-user-em-ia)
+- [Meta-Prompts: O Segredo de R$1.5M que Ninguém Conta](https://thebuilderscompass.substack.com/p/meta-prompts-o-segredo-de-r15m-que)
+- [Queimei R$ 23k tentando usar IA do jeito errado (aqui está o método que salvou meu trimestre)](https://thebuilderscompass.substack.com/p/queimei-r-23k-tentando-usar-ia-do)
+- [O Prompt de 5 Letras Que Vale R$176k (E Como Criar o Seu)](https://thebuilderscompass.substack.com/p/o-prompt-de-5-letras-que-vale-r176k)
+- [O Método RTCFEC: 6 Elementos Para Prompts Profissionais](https://thebuilderscompass.substack.com/p/o-metodo-rtcfec-6-elementos-para)
+- [O Código Secreto dos Prompts Profissionais](https://thebuilderscompass.substack.com/p/o-codigo-secreto-dos-prompts-profissionais)
+- [Construindo Agentes de IA Eficazes: O Projeto Pronto para Produção
+](https://thebuilderscompass.substack.com/p/construindo-agentes-de-ia-eficazes)
+- [Seu Agente Autônomo Deveria Ser 3 Prompts](https://thebuilderscompass.substack.com/p/seu-agente-autonomo-deveria-ser-3)
+- []()
 
 ## Guides
 
@@ -35,6 +56,10 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 ### ChatGPT
 
 - [**Awesome ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts): In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
+
+### Prompt Engineering
+
+- [**Brex's Prompt Engineering Guide**](https://github.com/brexhq/prompt-engineering?tab=readme-ov-file#embedding-data): This guide was created by Brex for internal purposes. It's based on lessons learned from researching and creating Large Language Model (LLM) prompts for production use cases. It covers the history around LLMs as well as strategies, guidelines, and safety recommendations for working with and building programmatic systems on top of large language models, like OpenAI's GPT-4.  The examples in this document were generated with a non-deterministic language model and the same examples may give you different results.  This is a living document. The state-of-the-art best practices and strategies around LLMs are evolving rapidly every day. Discussion and suggestions for improvements are encouraged.
 
 ## Models
 
