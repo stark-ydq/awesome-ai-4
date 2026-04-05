@@ -52,6 +52,7 @@ Repository of AI tools, tutorials, videos, and articles focused on generative AI
 ### Audio
 
 - [**Kits.AI**](https://app.kits.ai/community-voices): The AI Voice generator toolkitto supercharge your music
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice recordings into instrumental tracks using AI for music production.
 
 ### ChatGPT
 
